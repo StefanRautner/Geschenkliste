@@ -1,0 +1,228 @@
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.AssemblyReference.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfoInputs.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfo.cs
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.CoreCompileInputs.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cs
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.staticwebassets.runtime.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.exe
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.deps.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.runtimeconfig.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.pdb
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Humanizer.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.PLF_11112024_Rautner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.build.PLF_11112024_Rautner.props
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PLF_11112024_Rautner.props
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PLF_11112024_Rautner.props
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\bundle\PLF_11112024_Rautner.styles.css
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\projectbundle\PLF_11112024_Rautner.bundle.scp.css
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.CopyComplete
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\refint\PLF_11112024_Rautner.dll
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.pdb
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.genruntimeconfig.cache
+C:\Users\5POSM0002\Desktop\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\ref\PLF_11112024_Rautner.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.Development.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.staticwebassets.runtime.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.exe
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.deps.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.runtimeconfig.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.pdb
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Humanizer.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.AssemblyReference.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfoInputs.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfo.cs
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.CoreCompileInputs.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cs
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cs
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.build.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.development.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.PLF_11112024_Rautner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.build.PLF_11112024_Rautner.props
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PLF_11112024_Rautner.props
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PLF_11112024_Rautner.props
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.pack.json
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\bundle\PLF_11112024_Rautner.styles.css
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\projectbundle\PLF_11112024_Rautner.bundle.scp.css
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_1111.590BFAB7.Up2Date
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\refint\PLF_11112024_Rautner.dll
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.pdb
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.genruntimeconfig.cache
+C:\HTL\05 5INF\01 POS\Abgaben\Projekt POS1-5AHINF vom 07.11.2024\5POSM0002 (Stefan Rautner)\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\ref\PLF_11112024_Rautner.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.Development.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\appsettings.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.staticwebassets.runtime.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.exe
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.deps.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.runtimeconfig.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\PLF_11112024_Rautner.pdb
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Humanizer.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.AssemblyReference.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.GeneratedMSBuildEditorConfig.editorconfig
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfoInputs.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.AssemblyInfo.cs
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.csproj.CoreCompileInputs.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cs
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.MvcApplicationPartsAssemblyInfo.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.RazorAssemblyInfo.cs
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.build.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.development.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.PLF_11112024_Rautner.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.build.PLF_11112024_Rautner.props
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PLF_11112024_Rautner.props
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PLF_11112024_Rautner.props
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\bundle\PLF_11112024_Rautner.styles.css
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\scopedcss\projectbundle\PLF_11112024_Rautner.bundle.scp.css
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_1111.590BFAB7.Up2Date
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\refint\PLF_11112024_Rautner.dll
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.pdb
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\PLF_11112024_Rautner.genruntimeconfig.cache
+D:\PLF_11112024_Rautner\PLF_11112024_Rautner\obj\Debug\net6.0\ref\PLF_11112024_Rautner.dll

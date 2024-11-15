@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PLF_11112024_Rautner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\models\\geschenkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\models\\geschenkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\views\\geschenk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\views\\geschenk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|d:\\plf_11112024_rautner\\plf_11112024_rautner\\controllers\\geschenkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F15C984-7EAF-45D7-A803-07E50F7E1F05}|PLF_11112024_Rautner\\PLF_11112024_Rautner.csproj|solutionrelative:plf_11112024_rautner\\controllers\\geschenkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:27:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeschenkModel.cs",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Models\\GeschenkModel.cs",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Models\\GeschenkModel.cs",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Models\\GeschenkModel.cs",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Models\\GeschenkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:27:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:25:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Views\\Geschenk\\Index.cshtml",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Views\\Geschenk\\Index.cshtml",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Views\\Geschenk\\Index.cshtml",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Views\\Geschenk\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:25:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:25:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeschenkController.cs",
+              "DocumentMoniker": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Controllers\\GeschenkController.cs",
+              "RelativeDocumentMoniker": "PLF_11112024_Rautner\\Controllers\\GeschenkController.cs",
+              "ToolTip": "D:\\PLF_11112024_Rautner\\PLF_11112024_Rautner\\Controllers\\GeschenkController.cs",
+              "RelativeToolTip": "PLF_11112024_Rautner\\Controllers\\GeschenkController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:25:59.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

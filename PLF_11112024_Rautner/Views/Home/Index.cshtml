@@ -1,0 +1,48 @@
+﻿@model List<GeschenkModel>
+
+@{
+    ViewData["Title"] = "Geschenkliste";
+}
+
+<div class="text-center">
+    <a class="link-info" asp-area="" asp-controller="Geschenk" asp-action="Index">Geschenk hinzufügen</a>
+    <hr />
+    <h1 class="display-4">Geschenkliste</h1>
+    @if(User.Identity.Name == "god@heaven")
+    {
+        <a asp-action="DeleteAll" class="btn btn-danger" >Zurücksetzen</a>
+    }
+</div>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <td>Geschenk</td>
+            <td>Erledigt</td>
+            <td>Löschen</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(GeschenkModel geschenk in Model)
+        {
+            <tr style="background-color:@geschenk.Color">
+                @if(geschenk.Erledigt == true)
+                {
+                    <td><del>@geschenk.Title für: @geschenk.For</del></td>
+                    <td></td>
+                } else
+                {
+                    <td>@geschenk.Title für: @geschenk.For</td>
+                    <td><a asp-action="DoneGeschenk" asp-route-Id="@geschenk.Id" class="link-info">Erledigt</a></td>
+                }
+                @if(geschenk.CreatorName == User.Identity.Name)
+                {
+                    <td><a asp-action="DeleteGeschenk" asp-route-Id="@geschenk.Id" class="btn btn-danger">Löschen</a></td>
+                } else
+                {
+                    <td></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

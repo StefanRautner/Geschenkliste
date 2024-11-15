@@ -1,0 +1,17 @@
+﻿@model GeschenkModel;
+@{
+    ViewData["Title"] = "Geschenk erstellen";
+}
+
+<h1>Bitte Geschenk hier eingeben</h1>
+<form>
+    <input style="width: 600px" type="text" asp-for="Title" placeholder="Geschenketitel hier eingeben" />
+    <p></p>
+    <input style="width: 600px" type="text" asp-for="For" placeholder="Für wenn soll das Geschenk sein" />
+    <br />
+    @if(User.Identity.Name != null)
+    {
+        <p>Wähle deine bevorzugte Farbe: <input type="color" asp-for="Color"/></p>
+    }
+    <input type="submit" asp-action="SubmitForm" value="Speichern" />
+</form>

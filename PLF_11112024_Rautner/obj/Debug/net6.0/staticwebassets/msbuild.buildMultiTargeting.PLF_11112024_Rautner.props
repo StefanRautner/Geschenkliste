@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PLF_11112024_Rautner.props" />
+</Project>
